@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <html>
 <head>
-<title>2023 정진짜 수능국어 강의 링크</title>
+
 </head>
 <body>
     <h1>정진짜 수능국어 강의 링크</h1>
